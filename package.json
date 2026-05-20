@@ -1,0 +1,20 @@
+{
+  "name": "elon-doge-mining-solutions",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "tailwindcss": "^3.4.4",
+    "framer-motion": "^11.3.8",
+    "@react-three/fiber": "^8.16.8",
+    "@react-three/drei": "^9.108.3",
+    "three": "^0.166.1",
+    "stripe": "^16.5.0"
+  }
+}
