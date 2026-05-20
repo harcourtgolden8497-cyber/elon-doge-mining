@@ -106,3 +106,10 @@ npm install
 npm run dev
 npm run build
 npm start
+
+[build]
+  command = "npm run build"
+  publish = "netlify"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
